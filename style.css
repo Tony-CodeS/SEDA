@@ -22,7 +22,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
    background-position-y: center;
-   background-color: rgb(234, 87, 87);
+   background-color: rgb(18, 95, 82);
    border-bottom-left-radius: 80px;
 
    
@@ -85,7 +85,7 @@ body{
     width: 150px;
     border: none;
     border-radius: 50px;
-    color: rgb(234, 87, 87);
+    color: rgb(18, 95, 82);
 
 }
 
@@ -100,6 +100,7 @@ body{
 
 #mordern{
     font-weight: bold;
+    color: white;
 }
 #hero{
     display: flex;
@@ -140,11 +141,12 @@ body{
 
 #second-section{
     background-color: white;
+    
 }
 
 
 #third-section{
-    background-color: purple;
+    background-color: rgb(18, 95, 82);
     height: 350px;
     background-image: url(./images/images/bg-pattern-circles.svg);
     background-repeat: no-repeat;
@@ -212,6 +214,13 @@ body{
 margin-top: 40px;
 }
 
+#servicesSection{
+   margin-top: 100px;
+}
+
+#servicesDiv{
+   text-align: center;
+}
 #last-section{
     height: 400px;
     background-color:rgb(18, 9, 24);
