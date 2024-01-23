@@ -223,7 +223,8 @@ margin-top: 40px;
 }
 #last-section{
     height: 400px;
-    background-color:rgb(18, 9, 24);
+    /* background-color:rgb(18, 9, 24); */
+    background-color: rgb(18, 95, 82);
     padding-top: 50px;
     border-top-right-radius: 100px;
     color: white;
